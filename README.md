@@ -4,11 +4,9 @@ A responsive, single-page portfolio using HTML, CSS, and vanilla JavaScript. Whi
 
 ## Before publishing
 
-1. Search and replace `Your Name` with your name.
-2. Replace `hello@example.com` with your real email address.
-3. Update the GitHub and LinkedIn links in `index.html`.
-4. Replace the illustrative project cards with your real projects and live repository links. The current project cards are explicitly marked as concepts.
-5. Update the meta description and page title.
+1. Review the personal details and project summaries in `index.html`; they are based on Rodel Christian O. Martinez’s supplied resume.
+2. The public portfolio displays the resume email address and GitHub profile. Consider whether you want to publish contact details publicly.
+3. Add live demo or source-code links to projects when available, and adjust summaries if project details change.
 
 ## Preview locally
 
